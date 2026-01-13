@@ -1,0 +1,5 @@
+{
+  "name": "AI Code Fixer Pro",
+  "description": "An advanced AI-powered Python debugger and optimizer that analyzes errors, provides pedagogical explanations, and suggests PEP 8 improvements.",
+  "requestFramePermissions": []
+}
